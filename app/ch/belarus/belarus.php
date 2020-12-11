@@ -10,13 +10,13 @@
 "kategory":"Belarus Program Guide",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/belarus.png",
 "ulke":"",
-"cat_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/belarus/epg_belarus.txt",
+"cat_url":"https://github.com/getuser09/file/raw/master/app/ch/belarus/epg_belarus.txt",
 "cat_foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4oh5slHdvB_tO3z-qVjl3FpPAOrnkI_0AHG8afCm1ivPSXzU"},
 
 {"cat_id":888,
 "kategory":"Channels",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/belarus.png",
 "ulke":"Belarus",
-"cat_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/belarus/channel_belarus.txt",
+"cat_url":"https://github.com/getuser09/file/raw/master/app/ch/belarus/channel_belarus.txt",
 "cat_foto":"http://www.freelogovectors.net/wp-content/uploads/2013/02/TV-Icon-9.png"},
 ]}
