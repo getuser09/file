@@ -10,6 +10,6 @@
 "kategory":"Channels",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/italy.png",
 "ulke":"Italia",
-"cat_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/italy/channel_italy.txt",
+"cat_url":"https://github.com/getuser09/file/raw/master/app/ch/italy/channel_italy.txt",
 "cat_foto":"http://www.freelogovectors.net/wp-content/uploads/2013/02/TV-Icon-9.png"},
 ]}
