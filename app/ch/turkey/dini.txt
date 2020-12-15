@@ -162,7 +162,7 @@
 		"ServerUrl": "https://broadcasttr.com/tuncerciftci",
 		"PlayerType": "vitamio",
 		"PlayerControl": "false",
-		"OpenType": "direct",
+		"OpenType": "pattern",
 		"PatternText": "file : \"(.*?)\",,,,,,son",
 		"StaticText": ",,,,,son",
 		"LinkIndex": "",
