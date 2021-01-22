@@ -3,7 +3,7 @@
 "kategory":"Telegram Grubumuz",
 "ulke_flag":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 "ulke":"Telegram Grubumuz",
-"cat_url":"https://t.me/joinchat/MNLF0w-V4XwQZJOSr6kzMw",
+"cat_url":"https://t.me/globalcanlitv",
 "cat_foto":"https://1.bp.blogspot.com/-7vi-miz6tSc/XWseU6ipwbI/AAAAAAAAATc/qqvWZ8xswQ0YzCW4VCC4cBarOgE4aSIhwCLcBGAs/s1600/PicsArt_09-01-03.20.32.png"},
 
 {"cat_id":88888,
