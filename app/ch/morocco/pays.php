@@ -1,6 +1,6 @@
 {"Ulke":[
 {"ulke_id":9999,
-"country":"🛡Global Canlı Tv Premium (5 Gün %30 İndirim)",
+"country":"🛡Global Canlı Tv Premium",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png",
 "ulke":"UPDATE APP",
 "ulke_url":"https://play.google.com/store/apps/details?id=com.canliglobaltvpro.android",
