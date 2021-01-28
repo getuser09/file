@@ -2,7 +2,7 @@
 	"Kanallar": [
 {
 		"KanalNo": "000535",
-		"KanalAdi": "FX TV (VIP)",
+		"KanalAdi": "FX TV",
 		"KategoriNo": "38",
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "YEREL KANALLAR",
@@ -22,7 +22,7 @@
 	},
 {
 		"KanalNo": "000536",
-		"KanalAdi": "FOX CRİME (VIP)",
+		"KanalAdi": "FOX CRİME",
 		"KategoriNo": "38",
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "YEREL KANALLAR",
@@ -42,7 +42,7 @@
 	},
 {
 		"KanalNo": "000537",
-		"KanalAdi": "TÜRKSAT KORKU (VIP)",
+		"KanalAdi": "KORKU",
 		"KategoriNo": "38",
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "YEREL KANALLAR",
@@ -62,7 +62,7 @@
 	},
 {
 		"KanalNo": "000538",
-		"KanalAdi": "SİNEMA WESTERN (VIP)",
+		"KanalAdi": "SİNEMA WESTERN",
 		"KategoriNo": "38",
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "YEREL KANALLAR",
@@ -82,7 +82,7 @@
 	},
 {
 		"KanalNo": "000539",
-		"KanalAdi": "DİZİSMART PREMİUM (VIP)",
+		"KanalAdi": "DİZİSMART PREMİUM",
 		"KategoriNo": "38",
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "YEREL KANALLAR",
@@ -100,9 +100,86 @@
 		"Favori": 0,
 		"Secim": ""
 	},
-
-
-
+{
+		"KanalNo": "000540",
+		"KanalAdi": "AKSİYON 1",
+		"KategoriNo": "38",
+		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
+		"Aciklama": "YEREL KANALLAR",
+		"KanalLogo": "https://1.bp.blogspot.com/-n777HEfuIv8/YA3dO_TB1JI/AAAAAAAAAB0/Gl9dNmh1A74WkaK7sOPOOyJFXty1n3DlwCLcBGAsYHQ/s300/depositphotos_86519852-stock-illustration-banner-ciak-tape.jpg",
+		"ServerUrl": "https://admin.rectv.co/api/search/aksiyon%201/4F5A9C3D9A86FA54EACEDDD635185/c3c5bd17-e37b-4b94-a944-8a3688a30452/",
+		"PlayerType": "exoplayer",
+		"PlayerControl": "false",
+		"OpenType": "pattern",
+		"PatternText": "\"url\":\"(.*?)\",,,,,son",
+		"StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "exoplayer-codelab",
+		"SonGuncellemeTarihi": "15.10.2016 19:28:16",
+		"Favori": 0,
+		"Secim": ""
+	},
+{
+		"KanalNo": "000541",
+		"KanalAdi": "AKSİYON 2",
+		"KategoriNo": "38",
+		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
+		"Aciklama": "YEREL KANALLAR",
+		"KanalLogo": "https://1.bp.blogspot.com/-n777HEfuIv8/YA3dO_TB1JI/AAAAAAAAAB0/Gl9dNmh1A74WkaK7sOPOOyJFXty1n3DlwCLcBGAsYHQ/s300/depositphotos_86519852-stock-illustration-banner-ciak-tape.jpg",
+		"ServerUrl": "https://admin.rectv.co/api/search/aksiyon%202/4F5A9C3D9A86FA54EACEDDD635185/c3c5bd17-e37b-4b94-a944-8a3688a30452/",
+		"PlayerType": "exoplayer",
+		"PlayerControl": "false",
+		"OpenType": "pattern",
+		"PatternText": "\"url\":\"(.*?)\",,,,,son",
+		"StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "exoplayer-codelab",
+		"SonGuncellemeTarihi": "15.10.2016 19:28:16",
+		"Favori": 0,
+		"Secim": ""
+	},
+{
+		"KanalNo": "000542",
+		"KanalAdi": "BİLİM KURGU 1",
+		"KategoriNo": "38",
+		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
+		"Aciklama": "YEREL KANALLAR",
+		"KanalLogo": "https://1.bp.blogspot.com/-n777HEfuIv8/YA3dO_TB1JI/AAAAAAAAAB0/Gl9dNmh1A74WkaK7sOPOOyJFXty1n3DlwCLcBGAsYHQ/s300/depositphotos_86519852-stock-illustration-banner-ciak-tape.jpg",
+		"ServerUrl": "https://admin.rectv.co/api/search/bilim%20kurgu%201/4F5A9C3D9A86FA54EACEDDD635185/c3c5bd17-e37b-4b94-a944-8a3688a30452/",
+		"PlayerType": "exoplayer",
+		"PlayerControl": "false",
+		"OpenType": "pattern",
+		"PatternText": "\"url\":\"(.*?)\",,,,,son",
+		"StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "exoplayer-codelab",
+		"SonGuncellemeTarihi": "15.10.2016 19:28:16",
+		"Favori": 0,
+		"Secim": ""
+	},
+{
+		"KanalNo": "000543",
+		"KanalAdi": "BİLİM KURGU 2",
+		"KategoriNo": "38",
+		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
+		"Aciklama": "YEREL KANALLAR",
+		"KanalLogo": "https://1.bp.blogspot.com/-n777HEfuIv8/YA3dO_TB1JI/AAAAAAAAAB0/Gl9dNmh1A74WkaK7sOPOOyJFXty1n3DlwCLcBGAsYHQ/s300/depositphotos_86519852-stock-illustration-banner-ciak-tape.jpg",
+		"ServerUrl": "https://admin.rectv.co/api/search/bilim%20kurgu%202/4F5A9C3D9A86FA54EACEDDD635185/c3c5bd17-e37b-4b94-a944-8a3688a30452/",
+		"PlayerType": "exoplayer",
+		"PlayerControl": "false",
+		"OpenType": "pattern",
+		"PatternText": "\"url\":\"(.*?)\",,,,,son",
+		"StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "exoplayer-codelab",
+		"SonGuncellemeTarihi": "15.10.2016 19:28:16",
+		"Favori": 0,
+		"Secim": ""
+	},
 {
 		"KanalNo": "000500",
 		"KanalAdi": "Film Box",
@@ -803,12 +880,6 @@
 		"Favori": 0,
 		"Secim": ""
 	},
-
-
-
-
-
-
 {
 		"KanalNo": "38202",
 		"KanalAdi": "BEİN SERİES SC-Fİ",
