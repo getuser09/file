@@ -83,7 +83,7 @@
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "DINI KANALLAR",
 		"KanalLogo": "https://4.bp.blogspot.com/-kS9RxdV_Mr8/XWKnFyjLF_I/AAAAAAAAANw/6SJ6s_Ns-_Q-b9OW7kKEiMf2aJLCeaRygCPcBGAYYCw/s1600/ydxJbR7.png",
-		"ServerUrl": "https://canli.ensonhaber.com/tr/24tv/index.m3u8",
+		"ServerUrl": "https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8",
 		"PlayerType": "vitamio",
 		"PlayerControl": "false",
 		"OpenType": "direct",
