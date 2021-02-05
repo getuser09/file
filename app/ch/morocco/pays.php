@@ -27,11 +27,11 @@
 "ulke_url":"https://github.com/getuser09/file/raw/master/app/ch/azerbaijan/azerbaijan.php",
 "country_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/azeri.png"},
 
-{"ulke_id":34,
+{"ulke_id":9999,
 "country":"Kurdish",
 "ulke_flag":"https://1.bp.blogspot.com/-yuIcE3kYeOA/X6SL2N_v4bI/AAAAAAAABsk/GGBXystwMjcK_q2sKtWbYX4ySmim11AagCLcBGAsYHQ/s0/flag_kurdistan.png",
-"ulke":"Kurdish",
-"ulke_url":"https://github.com/getuser09/file/raw/master/app/ch/kurdish/kurdish.php",
+"ulke":"UPDATE APP",
+"ulke_url":"https://play.google.com/store/apps/details?id=com.kurdishtv21.app",
 "country_foto":"https://1.bp.blogspot.com/-yuIcE3kYeOA/X6SL2N_v4bI/AAAAAAAABsk/GGBXystwMjcK_q2sKtWbYX4ySmim11AagCLcBGAsYHQ/s0/flag_kurdistan.png"},
 
 {"ulke_id":1,
