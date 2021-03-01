@@ -19,7 +19,28 @@
 		"SonGuncellemeTarihi": "16.10.2016 13:39:18",
 		"Favori": 0,
 		"Secim": ""
-		},{
+		},
+{
+		"KanalNo": "000561",
+		"KanalAdi": "MTAVARİ ARXİ",
+		"KategoriNo": "20",
+		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/georgia.png",
+		"Aciklama": "GEORGIA",
+		"KanalLogo": "https://poti.ge/uploads/posts/2020-12/1607614383_mtavariarxi.jpg",
+		"ServerUrl": "https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8",
+		"PlayerType": "exoplayer",
+		"PlayerControl": "false",
+		"OpenType": "direct",
+		"PatternText": ",,,,son",
+		"StaticText": ",,,,son",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36",
+		"SonGuncellemeTarihi": "16.10.2016 13:39:18",
+		"Favori": 0,
+		"Secim": ""
+		},
+{
 		"KanalNo": "20004",
 		"KanalAdi": "IMEDI..",
 		"KategoriNo": "20",
