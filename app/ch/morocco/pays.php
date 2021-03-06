@@ -13,11 +13,11 @@
 "ulke_url":"https://github.com/getuser09/file/raw/master/app/ch/turkey/turkey.php",
 "country_foto":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png"},
 
-{"ulke_id":9999,
+{"ulke_id":112,
 "country":"Germany",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/germany.png",
-"ulke":"UPDATE APP",
-"ulke_url":"https://play.google.com/store/apps/details?id=com.germany_live_tv_49.app",
+"ulke":"Germany",
+"ulke_url":"https://github.com/getuser09/file/raw/master/app/ch/germany/germany.php",
 "country_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/germany.png"},
 
 {"ulke_id":7,
