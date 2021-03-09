@@ -45,7 +45,7 @@
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "HABER KANALLARI",
 		"KanalLogo": "https://2.bp.blogspot.com/-g9IRP7nTUz4/XkNhyG--6xI/AAAAAAAAA5g/MRhpIzbKm2Mq6f2pSALqpNoY6LfXUjeGACLcBGAsYHQ/s1600/PicsArt_02-12-03.22.39.png",
-		"ServerUrl": "tvjetapp.com.m3u8",
+		"ServerUrl": "tvtap",
 		"PlayerType": "vitamio",
 		"PlayerControl": "false",
 		"OpenType": "direct",
