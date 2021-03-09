@@ -45,7 +45,7 @@
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "HABER KANALLARI",
 		"KanalLogo": "https://2.bp.blogspot.com/-g9IRP7nTUz4/XkNhyG--6xI/AAAAAAAAA5g/MRhpIzbKm2Mq6f2pSALqpNoY6LfXUjeGACLcBGAsYHQ/s1600/PicsArt_02-12-03.22.39.png",
-		"ServerUrl": "tvtap",
+		"ServerUrl": "https://live-01.tvjetapp.com/ch-14/live.m3u8?md5=hMxXiDNTdHx8G6riZYI9Cg&expires=1615415071&client_ip=%3C!DOCTYPE%20html%3E%3Chtml%3E%20%20%3Chead%3E%3Cmeta%20name=%22viewport%22%20content=%22width=device-width,%20initial-scale=1%22%3E%3Cmeta%20charset=%22utf-8%22%3E%3Ctitle%3EApplication%20Error%3C/title%3E%3Cstyle%20media=%22screen%22%3E%20%20html,body,iframe%20{margin:%200;padding:%200;%20%20}%20%20html,body%20{height:%20100%;overflow:%20hidden;%20%20}%20%20iframe%20{width:%20100%;height:%20100%;border:%200;%20%20}%3C/style%3E%20%20%3C/head%3E%20%20%3Cbody%3E%3Ciframe%20src=%22//www.herokucdn.com/error-pages/application-error.html%22%3E%3C/iframe%3E%20%20%3C/body%3E%3C/html%3E",
 		"PlayerType": "vitamio",
 		"PlayerControl": "false",
 		"OpenType": "direct",
